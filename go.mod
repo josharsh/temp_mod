@@ -1,3 +1,3 @@
-module github.com/xmp-er/temp-mod
+module gitub.com/josharsh/temp_mod
 
 go 1.21.3

@@ -3,7 +3,7 @@ package api
 import (
 	"fmt"
 
-	"github.com/xmp-er/temp-mod/constants"
+	"github.com/josharsh/temp-mod/constants"
 )
 
 func CallAPI() {

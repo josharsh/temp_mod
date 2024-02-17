@@ -1,6 +1,6 @@
 package main
 
-import "github.com/xmp-er/temp-mod/pkg/api"
+import "github.com/josharsh/temp_mod/pkg/api"
 
 func main() {
 	api.CallAPI()
